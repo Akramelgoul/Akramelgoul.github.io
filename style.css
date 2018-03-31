@@ -1,4 +1,4 @@
-	*{
+		*{
 	font-size: 20px;
 	
 	color: white;	
@@ -38,7 +38,9 @@
 	}
 	
 	#left span{
-		font-family: Urban Jungle;
+		font-family: 'Skranji', cursive;
+
+
 		display: block;
 		color: white;
 		font-size: 30px;
@@ -159,7 +161,7 @@
 	animation: zoomIn 1s;
 }
 #name {
-	font-family: Urban Jungle;
+	font-family: 'Skranji', cursive;
 	font-size: 30px;
 	text-shadow: 2px 2px 8px #BE201D;
 	word-spacing: 10px;

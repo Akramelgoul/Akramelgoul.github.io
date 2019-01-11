@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Invitation Card</title>
+	<meta charset="utf-8">
+</head>
+<body>
+<img src="https://akramelgoul.github.io/one.png" width="930" height="558" alt="Card" usemap="#Card">
+<map name="#Card">
+<area shape="rect" coords="545,208,869,235" alt="email" href="https://goodbusinessfinder.com/pages/contact">	
+<area shape="rect" coords="548,250,717,276" alt="location" href="https://goodbusinessfinder.com/pages/apropos">	
+<area shape="rect" coords="543,287,712,316" alt="phone" href="https://goodbusinessfinder.com/pages/contact">	
+<area shape="rect" coords="547,330,786,358" alt="website" href="https://goodbusinessfinder.com/">	
+<area shape="rect" coords="76,316,441,367" alt="name" href="https://goodbusinessfinder.com/">
+<area shape="circle" coords="253,233,61" alt="logo" href="https://goodbusinessfinder.com/">
+</map>
+</body>
+</html>
